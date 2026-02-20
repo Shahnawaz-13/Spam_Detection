@@ -22,3 +22,6 @@ The script includes a real-time prediction function that allows users to input c
 ## 💡 Why Naive Bayes?
 Chosen for its computational efficiency and ability to perform well even with limited training data.
 Particularly effective for text-based features where the feature space (vocabulary) is large.
+
+## DEMO URL
+https://sms-email-spamdetection.streamlit.app/
